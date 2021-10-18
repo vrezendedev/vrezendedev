@@ -1,0 +1,5 @@
+- Hey there, I’m @vrezendedev!
+- I’m interested in Software Development and Game Development...
+- I’m currently learning a bunch of stuff and pretend to learn even more as I think that we always need to improve our capacities and never stop studying.
+- You can find me on LinkedIn: https://www.linkedin.com/in/vinicius-inacio-rezende/
+- Thanks for all the attention and happy coding for you :)
