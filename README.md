@@ -27,7 +27,7 @@
 </div>
 
 
-<p align="left">I’m interested in Software Development and Game Development... I’m currently learning a bunch of stuff related to Game Development (programming, drawing, music production, story writing... the list is enormous) and pretending to learn even more as I think that we always need to improve our capacities and never stop studying. Currently learning: Go, Rust and Lua.</p>
+<p align="left">I’m interested in Software Development and Game Development... I’m currently learning a bunch of stuff related to Game Development (programming, drawing, music production, story writing... the list is enormous) and pretending to learn even more as I think that we always need to improve our capacities and never stop studying. Currently learning: Go, OCaml and Lua.</p>
 
 
 <div align="center">
