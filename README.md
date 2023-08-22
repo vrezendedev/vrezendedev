@@ -1,12 +1,21 @@
 <h1 align="center">Hey there, I’m Rezende!</h1>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vrezendedev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=vrezendedev" height="150" alt="languages graph"  />
 </div>
 
+<br>
 
 <p align="left">I’m a Full Stack Software Developer, worked specifically on web applications, APIs and database modeling, expansion and maintenance – using Technologies such as C#, React and PostgreSQL. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games indepently, using Unity Game Engine.</p>
+
+<ul> 
+  <li>Front-End: React (JS and TS), Solid.js, HTML & CSS, Sass... I have used Angular, TailwindCSS, Bulma in the past...</li>
+  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, SQL, PostgreSQL, Go... Currently learning: Docker, Kubernetes and Microservices. Also had contact with Java, MongoDB and MySQL.</li>
+  <li>Game Development: Unity (w/ C#), Blender (Low-Poly 3D Modelling), Aseprite (Pixel Art and low-res texture)... Currently learning: Shaderlab and Shader Graph.</li>
+</ul>
 
 <br>
 
@@ -20,4 +29,5 @@
 
 <div align="center">
   <img height="100" src="https://c.tenor.com/AGgVj_aylZUAAAAd/coraline-dad.gif"/>
+  <p> Here a Gif of me coding at 02:00 AM </p>
 </div>
