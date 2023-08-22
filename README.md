@@ -9,13 +9,18 @@
 
 <br>
 
-<p align="left">I’m a Full Stack Software Developer, worked specifically on web applications, APIs and database modeling, expansion and maintenance – using Technologies such as C#, React and PostgreSQL. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games indepently, using Unity Game Engine.</p>
+<p align="left">I’m a Full Stack Software Developer, worked specifically on web applications, APIs and database modeling, expansion and maintenance – using Technologies such as C#, React and PostgreSQL. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games independently, using Unity Game Engine.</p>
 
 <ul> 
   <li>Front-End: React (JS and TS), Solid.js, HTML & CSS, Sass... I have used Angular, TailwindCSS, Bulma in the past...</li>
-  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, SQL, PostgreSQL, Go... Currently learning: Docker, Kubernetes and Microservices. Also had contact with Java, MongoDB and MySQL.</li>
-  <li>Game Development: Unity (w/ C#), Blender (Low-Poly 3D Modelling), Aseprite (Pixel Art and low-res texture)... Currently learning: Shaderlab and Shader Graph.</li>
+  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, SQL, PostgreSQL, Go... Currently learning: Docker, Kubernetes, OCaml, Microservices. Also had contact with Java, MongoDB and MySQL.</li>
+  <li>Game Development: Unity (w/ C#), Blender (Low-Poly 3D Modelling), Aseprite (Pixel Art and low-res texture)... Currently learning: Lua, Shaderlab and Shader Graph.</li>
 </ul>
+
+<br>
+
+<p>Enhancing my skills with C#, Go, Javascript and 3D Modelling.</p>
+<p>Reinforcing what was said, currently learning: Docker, Kubernetes, OCaml, Lua, Shaderlab (CG/HLSL) and Shader Graph.</p>
 
 <br>
 
