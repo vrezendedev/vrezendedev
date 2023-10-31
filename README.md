@@ -19,7 +19,7 @@
 <ul> 
   <li>Front-End: React (JS and TS), Solid.js, HTML & CSS, Sass... I have used Angular, TailwindCSS, Bulma in the past...</li>
   <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, SQL, PostgreSQL, Go... Currently learning: Docker, Kubernetes, OCaml, Microservices. Also had contact with Java, MongoDB and MySQL.</li>
-  <li>Game Development: Unity (w/ C#), Blender (Low-Poly 3D Modelling), Aseprite (Pixel Art and low-res texture)... Currently learning: Lua, Shaderlab and Shader Graph.</li>
+  <li>Game Development: Unity (w/ C#), Godot(w/ C#), Blender (Low-Poly 3D Modelling), Aseprite (Pixel Art and low-res texture)... Currently learning: Lua, Shaderlab and Shader Graph.</li>
 </ul>
 
 <br>
