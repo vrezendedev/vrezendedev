@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="left">I’m a Full Stack Software Developer, worked specifically on web applications, APIs and database modeling, expansion and maintenance – using Technologies such as C#, React and PostgreSQL. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games independently, using Unity Game Engine.</p>
+<p align="left">I’m a Game Programmer and Full Stack Software Developer. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games independently, using Unity and Godot Game Engines.</p>
 
 <ul> 
   <li>Front-End: React (JS and TS), Solid.js, HTML & CSS, Sass... I have used Angular, TailwindCSS, Bulma in the past...</li>
