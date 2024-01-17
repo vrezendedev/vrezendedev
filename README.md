@@ -14,18 +14,20 @@
 
 <br>
 
-<p align="left">I’m a Game Programmer and Full Stack Software Developer. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games independently, using Unity and Godot Game Engines.</p>
+<p align="left">I’m a Game Programmer and Full Stack Software Developer. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games independently, using Unity Game Engine.</p>
 
 <ul> 
-  <li>Front-End: React (JS and TS), Solid.js, HTML & CSS, Sass... I have used Angular, TailwindCSS, Bulma in the past...</li>
-  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, SQL, PostgreSQL, Go... Currently learning: Docker, Kubernetes, OCaml, Microservices. Also had contact with Java, MongoDB and MySQL.</li>
-  <li>Game Development: Unity (w/ C#), Godot(w/ C#), Blender (Low-Poly 3D Modelling), Aseprite (Pixel Art and low-res texture)... Currently learning: Lua, Shaderlab and Shader Graph.</li>
+  <li>Front-End: React, Svelte, Solid.js, SASS and HTML & CSS. </li>
+  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, PostgreSQL and Go. </li>
+  <li>Game Development: Unity (w/ C#), Phaser and Colyseus. </li>
+  <li>Other tools: Docker, FireAlpaca and FLStudio.</li>
 </ul>
 
 <br>
 
-<p>Enhancing my skills with C#, Go, Javascript and 3D Modelling.</p>
-<p>Reinforcing what was said, currently learning: Docker, Kubernetes, OCaml, Lua, Shaderlab (CG/HLSL) and Shader Graph.</p>
+<p>Enhancing my skills with C#, Javascript, Typescript and Go.</p>
+
+<p>Currently learning: OCaml, Lua e Shader Graph.</p>
 
 <br>
 
