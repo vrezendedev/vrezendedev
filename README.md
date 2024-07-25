@@ -27,4 +27,4 @@
 
 <p>Enhancing my skills with C#, Lua, Javascript, Typescript and Go.</p>
 
-<p>Currently learning: OCaml </p>
+<p>Currently learning: OCaml. </p>
