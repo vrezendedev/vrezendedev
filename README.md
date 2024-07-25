@@ -14,32 +14,17 @@
 
 <br>
 
-<p align="left">I’m a Game Programmer and Full Stack Software Developer. Interested in Software Development and Game Development, being C# the first language that I had contact with programming, I develop games independently, using Unity Game Engine.</p>
+<p align="left">I am an indie game developer, working in the game industry as a game programmer. Before working with game development, I worked in other programming fields like web development. I develop games independently, using MonoGame Framework. </p>
 
 <ul> 
-  <li>Front-End: React, Svelte, Solid.js, SASS and HTML & CSS. </li>
+  <li>Game Development: MonoGame Framework (C#), Unity Game Engine (w/ C#), Roblox Studio (Lua), Phaser Framework and Colyseus Multiplayer Framework. </li>
+  <li>Front-End: Svelte, React, Solid.js, SASS and HTML & CSS. </li>
   <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, PostgreSQL and Go. </li>
-  <li>Game Development: Unity (w/ C#), Phaser and Colyseus. </li>
-  <li>Other tools: Docker, FireAlpaca and FLStudio.</li>
+  <li>Other tools: Blender, FireAlpaca, FLStudio and Docker.</li>
 </ul>
 
 <br>
 
-<p>Enhancing my skills with C#, Javascript, Typescript and Go.</p>
+<p>Enhancing my skills with C#, Lua, Javascript, Typescript and Go.</p>
 
-<p>Currently learning: OCaml, Lua e Shader Graph.</p>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-inacio-rezende/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo"  />
-  </a>
-</div>
-
-<p align="center">Thanks for all the attention and happy coding for you :)</p>
-
-<div align="center">
-  <img height="100" src="https://c.tenor.com/AGgVj_aylZUAAAAd/coraline-dad.gif"/>
-  <p> Here a Gif of me coding at 02:00 AM </p>
-</div>
+<p>Currently learning: OCaml </p>
