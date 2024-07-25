@@ -17,9 +17,9 @@
 <p align="left">I am an indie game developer, working in the game industry as a game programmer. Before working with game development, I worked in other programming fields like web development. I develop games independently, using MonoGame Framework. </p>
 
 <ul> 
-  <li>Game Development: MonoGame Framework (C#), Unity Game Engine (w/ C#), Roblox Studio (Lua), Phaser Framework and Colyseus Multiplayer Framework. </li>
-  <li>Front-End: Svelte, React, Solid.js, SASS and HTML & CSS. </li>
-  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS, PostgreSQL and Go. </li>
+  <li>Game Development: MonoGame Framework (C#), Unity Game Engine (w/ C#), Roblox Studio (Lua), Phaser Framework(JS/TS) and Colyseus Multiplayer Framework. </li>
+  <li>Front-End: Svelte(JS/TS), React(JS/TS), Solid.js(JS), SASS and HTML & CSS. </li>
+  <li>Back-End: C# (.Net Framework and .Net Core), NodeJS(JS/TS), PostgreSQL and Go. </li>
   <li>Other tools: Blender, FireAlpaca, FLStudio and Docker.</li>
 </ul>
 
